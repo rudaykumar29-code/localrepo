@@ -1,2 +1,2 @@
 # Uday-kumar-project
-This is my Repository
+This is my Git Repository
